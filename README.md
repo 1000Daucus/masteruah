@@ -13,7 +13,7 @@
 1. Un enlace a [Google](http://www.google.com)
 1. Una imagen:
 
-![Texto de la imagen] (https:/avatars1.githubusesrcontent.com/u/1641592?s=460&v=4)
+![Texto de la imagen] (https://www.google.es/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiT3oni1ujeAhUKx4UKHbAHAU4QjRx6BAgBEAU&url=https%3A%2F%2Fhaciendofotos.com%2Flas-mejores-fotos-de-mar%2F&psig=AOvVaw0ySHe8tD5FfgkrIlKrlJwy&ust=1542999379882230)
 
 ## Tabla
 
